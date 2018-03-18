@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Vuffi App</string>
+    <string name="button_play">Play with me</string>
+    <string name="button_pictures">Pictures of me</string>
+    <string name="button_newsletter">Sign up for my newsletter</string>
+
+    <!--Play strings -->
+    <string name="textview_play_throw">Motion with phone to throw frisbee</string>
+    <string name="button_play_up">\u2191</string>
+    <string name="button_play_down">\u2193</string>
+    <!--<string name="button_play_left">\u00AB</string>-->
+    <string name="button_play_left">\u2190</string>
+    <string name="button_play_right">\u2192</string>
+
+
+</resources>
